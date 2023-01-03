@@ -1,0 +1,14 @@
+.footer {
+    height: 25rem;
+    position: relative;
+}
+
+.footer__bottom {
+    height: 3.125rem;
+    width: 100%;
+    text-align: center;
+    position: absolute;
+    bottom: 0rem;
+    left: 0rem;
+    padding-top: 1.25rem;
+}
