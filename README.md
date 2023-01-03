@@ -8,6 +8,7 @@ The first protoype release of [daniaj.net](https://daniaj.net) built with React.
 
 ### Update as of Jan 2023
 Disable/remove FadeIn effect component  (react hooks: ```useRef```, ```useState```, ```useEffect```) from ```function FadeInSection``` if the view of the children and parents are overlapping.
+<br>
 
 # 🛠 Set-up
 
