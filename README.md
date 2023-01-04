@@ -3,8 +3,8 @@
 
 The first protoype release of [daniaj.net](https://daniaj.net) built with React.js leveraging Material UI.
 <br><br>
-<img src="SS 1.png">
-<img src="SS 2.png">
+<img src="public/SS 1.png">
+<img src="public/SS 2.png">
 
 ### Update as of Jan 2023
 Disable/remove FadeIn effect component  (react hooks: ```useRef```, ```useState```, ```useEffect```) from ```function FadeInSection``` if the view of the children and parents are overlapping.
